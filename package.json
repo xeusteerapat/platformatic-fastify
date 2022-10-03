@@ -1,0 +1,17 @@
+{
+  "name": "platformatic-fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@platformatic/sql-graphql": "^0.2.0",
+    "@platformatic/sql-mapper": "^0.2.0",
+    "fastify": "^4.7.0"
+  }
+}
